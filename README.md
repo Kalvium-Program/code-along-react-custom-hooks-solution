@@ -8,8 +8,8 @@ In this exercise, the aim is to understand the concept of custom hooks.
 
 You can follow the links below - to get a better idea of `custom hooks`.
 
-![Article on custom hooks](https://www.turing.com/blog/custom-react-js-hooks-how-to-use/#:~:text=A%20custom%20hook%20is%20a,not%20require%20a%20specific%20signature.)
-![Creating useFetch - custom hook](https://www.w3schools.com/react/react_customhooks.asp)
+[Article on custom hooks](https://www.turing.com/blog/custom-react-js-hooks-how-to-use/#:~:text=A%20custom%20hook%20is%20a,not%20require%20a%20specific%20signature.)
+[Creating useFetch - custom hook](https://www.w3schools.com/react/react_customhooks.asp)
 
 
 # Task:
